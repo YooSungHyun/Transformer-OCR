@@ -1,4 +1,4 @@
-**# Raw Data Template**
+# Raw Data Template
 
 `train.csv`: All Raw Data infomation here (`id,img_path,label`)
 
