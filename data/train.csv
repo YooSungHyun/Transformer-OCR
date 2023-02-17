@@ -1,0 +1,12 @@
+id,img_path,label
+TRAIN00,./data/train/TRAIN00.png,example
+TRAIN01,./data/train/TRAIN01.png,example
+TRAIN02,./data/train/TRAIN02.png,example
+TRAIN03,./data/train/TRAIN03.png,example
+TRAIN04,./data/train/TRAIN04.png,example
+TRAIN05,./data/train/TRAIN05.png,example
+TRAIN06,./data/train/TRAIN06.png,example
+TRAIN07,./data/train/TRAIN07.png,example
+TRAIN08,./data/train/TRAIN08.png,example
+TRAIN09,./data/train/TRAIN09.png,example
+TRAIN10,./data/train/TRAIN10.png,example

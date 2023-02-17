@@ -1,0 +1,7 @@
+id,img_path,label
+TRAIN00,./data/preproc_train/TRAIN00.png,example
+TRAIN01,./data/preproc_train/TRAIN01.png,example
+TRAIN02,./data/preproc_train/TRAIN02.png,example
+TRAIN03,./data/preproc_train/TRAIN03.png,example
+TRAIN04,./data/preproc_train/TRAIN04.png,example
+TRAIN05,./data/preproc_train/TRAIN05.png,example
